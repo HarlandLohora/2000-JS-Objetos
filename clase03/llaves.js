@@ -8,7 +8,7 @@ const cliente = {
         numero: 222,
         pais: "Mexico",
         apartamento: true
-    }
+    },
 }
 
 const llavesDelObj = Object.keys(cliente)
